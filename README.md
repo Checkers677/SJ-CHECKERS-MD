@@ -22,7 +22,7 @@ A customizable WhatsApp bot with all needful commands. Deploy it easily and enjo
 
 ---
 
-[![Download ZIP](https://img.shields.io/badge/📦%20Download%20SJ--CHECKERS--MD-green?style=for-the-badge)](https://github.com/sjcheckers/SJ-CHECKERS-MD/raw/main/sj-checkers-md.zip)
+[![Download ZIP](https://img.shields.io/badge/📦%20Download%20SJ--CHECKERS--MD--main-green?style=for-the-badge)](https://github.com/sjcheckers/SJ-CHECKERS-MD/raw/main/SJ-CHECKERS-MD-main.zip)
 
 ## 📞 Support & Updates
 <!-- WhatsApp Channel Button -->
