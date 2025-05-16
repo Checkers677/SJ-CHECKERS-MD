@@ -10,7 +10,8 @@ A customizable WhatsApp bot with all needful commands. Deploy it easily and enjo
 [![Star & Fork](https://img.shields.io/badge/⭐Star%20&%20Fork-gray?style=for-the-badge&logo=github)](https://github.com/sjcheckers/SJ-CHECKERS-MD/fork)
 
 ### 2. 👇 Get Session ID Here  
-[![SESSION ID](https://img.shields.io/badge/🟠SESSION%20ID%20GENERATE-orange?style=for-the-badge)](https://replit.com/@cyber-phantom/CYPHER-X-QR)
+[![SESSION ID]### 👇 Get Your Session ID  
+[![SESSION ID](https://img.shields.io/badge/🟠GENERATE%20SESSION-orange?style=for-the-badge)](https://replit.com/@cyber-phantom/CYPHER-X-QR)
 
 ### 3. 👇 Create Account on Heroku  
 [![Create Heroku Account](https://img.shields.io/badge/💻Create%20Account-purple?style=for-the-badge&logo=heroku)](https://signup.heroku.com)
