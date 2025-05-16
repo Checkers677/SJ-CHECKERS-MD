@@ -1,3 +1,5 @@
+![SJ-CHECKERS-MD Logo](https://i.imgur.com/MQLpjjQ.png)
+
 # SJ-CHECKERS-MD
 
 A customizable WhatsApp bot with all needful commands. Deploy it easily and enjoy automation.
