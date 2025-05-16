@@ -21,10 +21,10 @@ A customizable WhatsApp bot with all needful commands. Deploy it easily and enjo
 ---
 
 ## 📞 Support & Updates
-
-### 👇 Follow My WhatsApp Channel  
-### 📢 SJ CHECKERS OFFICIAL CHANNEL  
-[Join on WhatsApp](https://whatsapp.com/channel/0029VbApq2W47XeDhGHqYR18)
+<!-- WhatsApp Channel Button -->
+<a href="https://whatsapp.com/channel/0029VbApq2W47XeDhGHqYR18" target="_blank" style="display:inline-block;background:#25D366;color:white;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;">
+  📢 Join Our WhatsApp Channel
+</a>
 
 ### 👇 Contact Me on WhatsApp  
 [![WhatsApp](https://img.shields.io/badge/💬Contact%20Me%20on%20WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/256781143176)
