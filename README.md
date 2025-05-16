@@ -23,7 +23,8 @@ A customizable WhatsApp bot with all needful commands. Deploy it easily and enjo
 ## 📞 Support & Updates
 
 ### 👇 Follow My WhatsApp Channel  
-[![WhatsApp Channel](https://whatsapp.com/channel/0029VbApq2W47XeDhGHqYR18)](https://whatsapp.com/channel/0029VbApq2W47XeDhGHqYR18)
+### 📢 SJ CHECKERS OFFICIAL CHANNEL  
+[Join on WhatsApp](https://whatsapp.com/channel/0029VbApq2W47XeDhGHqYR18)
 
 ### 👇 Contact Me on WhatsApp  
 [![WhatsApp](https://img.shields.io/badge/💬Contact%20Me%20on%20WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/256781143176)
