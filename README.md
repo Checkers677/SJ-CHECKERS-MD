@@ -12,6 +12,8 @@ A customizable WhatsApp bot with all needful commands. Deploy it easily and enjo
 ### 👇 Get Your Session ID  
 [![SESSION ID](https://img.shields.io/badge/🟢GET%20SESSION%20ID-success?style=for-the-badge)](https://elitepro-session-id.onrender.com)
 
+**ALL DEPLOYMENT METHODS**
+
 ### 3. 👇 Create Account on Heroku  
 [![Create Heroku Account](https://img.shields.io/badge/💻Create%20Account-purple?style=for-the-badge&logo=heroku)](https://signup.heroku.com)
 
